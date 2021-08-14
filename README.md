@@ -1,6 +1,5 @@
 <a href="https://discord.com/users/705665813994012695">
-  <img src="[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/373527405752483840
-                            )](https://discord.com/users/373527405752483840)" align="right" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/373527405752483840" align="right" />
 </a>
                                                                                    
 ### 17, pursuing full-stack Typescript development.
