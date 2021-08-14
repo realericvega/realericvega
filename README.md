@@ -9,7 +9,6 @@
   - HTML/CSS/JS (learning)
 
 - 🛠 Backend (learning):
-  - GoLang
   - MySQL & MongoDB
   - Redis
   - Docker
