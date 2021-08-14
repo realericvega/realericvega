@@ -3,19 +3,16 @@
                             )](https://discord.com/users/373527405752483840)" align="right" />
 </a>
                                                                                    
-### 17, pursuing full-stack TypeScript development.
+### 17, pursuing full-stack Java development.
 
 - 🖥️ Frontend:
-  - React/Next.js
-  - styled-components (occasionally Tailwind)
-  - In the past: HTML/CSS/JS
-  - Also learning: React Native
+  - Java
+  - HTML/CSS
 
 - 🛠 Backend (learning):
-  - Node.js/Express
-  - Postgres + Prisma
+  - GoLang
+  - MySQL & MongoDB
   - Redis
   - Docker
 
-\
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcnrad&count_bg=%230263A4&title_bg=%23002D53&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvegacodesx&count_bg=%2326C264&title_bg=%23414C88&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
