@@ -6,7 +6,6 @@
 
 - 🖥️ Frontend:
   - Java
-  - C# (learning)
   - HTML/CSS/JS (learning)
 
 - 🛠 Backend (learning):
