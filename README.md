@@ -1,7 +1,3 @@
-<h1 align="left">
-  <img src="https://raw.githubusercontent.com/cnrad/cnrad/main/header.svg" alt="Hi there, I'm Conrad" />
-</h1>
-
 <a href="https://discord.com/users/705665813994012695">
   <img src="[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/373527405752483840
                             )](https://discord.com/users/373527405752483840)" align="right" />
