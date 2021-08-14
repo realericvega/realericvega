@@ -3,12 +3,12 @@
                             )](https://discord.com/users/373527405752483840)" align="right" />
 </a>
                                                                                    
-### 17, pursuing full-stack Java development.
+### 17, pursuing full-stack Typescript development.
 
 - 🖥️ Frontend:
   - Java
   - C# (learning)
-  - HTML/CSS
+  - HTML/CSS/JS (learning)
 
 - 🛠 Backend (learning):
   - GoLang
