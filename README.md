@@ -9,10 +9,10 @@
   <img align="left" alt="Eric Gomez | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.polywork.com/ericgomez">
-  <img align="left" alt="Eric's PolyWork" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Eric's PolyWork" width="22px" src="https://user-images.githubusercontent.com/65141753/129495521-a412ca88-0084-4e63-88e8-55d1bc64a31e.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvegacodesx&count_bg=%2326C264&title_bg=%23414C88&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br />
 
@@ -43,5 +43,3 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📈 my github stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vegacodesx&show_icons=true&theme=gotham" alt="vegacodesx" />
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvegacodesx&count_bg=%2326C264&title_bg=%23414C88&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
