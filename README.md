@@ -6,10 +6,10 @@
 
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://twitter.com/vegacodesx">
-  <img align="left" alt="Eric Gomez | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Eric Gomez | Twitter" width="55px" height="55px" src="https://user-images.githubusercontent.com/65141753/129495796-99504634-4486-4b73-bda2-dacd825755de.png" />
 </a>
 <a href="https://www.polywork.com/ericgomez">
-  <img align="left" alt="Eric's PolyWork" width="22px" src="https://user-images.githubusercontent.com/65141753/129495521-a412ca88-0084-4e63-88e8-55d1bc64a31e.png" />
+  <img align="left" alt="Eric's PolyWork" width="80px" height="80px" src="https://user-images.githubusercontent.com/65141753/129495847-74ba3118-ba5b-472d-8167-f817b7ea1619.png" />
 </a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvegacodesx&count_bg=%2326C264&title_bg=%23414C88&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
