@@ -22,16 +22,16 @@ hi, i'm [Eric](https://ericthedev.dev/), a passionate self-taught web & software
 
 **languages and tools:**  
 
+<code><img height="20" src="https://user-images.githubusercontent.com/65141753/129515961-c0a10f6e-f971-44fb-ac9b-76f1230f37de.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/65141753/129516087-9d9044b7-2a9a-4894-afc8-a08626a48aa8.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/65141753/129516180-c7000696-9276-472e-9b67-2c463074ebdd.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/65141753/129516041-ba01993f-7629-4e25-85c0-ab37822910a2.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/65141753/129515898-43f8d295-7bde-4623-b374-968cd789b570.png"></code>
 
 📈 my github stats
 
