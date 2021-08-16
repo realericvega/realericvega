@@ -5,18 +5,15 @@
 ### 17, pursuing full-stack Web & Software development.
 
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/vegacodesx">
-  <img align="left" alt="Eric Gomez | Twitter" width="80px" height="80px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <a href="https://www.polywork.com/ericgomez">
-  <img align="left" alt="Eric's PolyWork" src="https://user-images.githubusercontent.com/65141753/129495847-74ba3118-ba5b-472d-8167-f817b7ea1619.png" />
+  <img align="left" alt="Eric's PolyWork" height="66px" width="66px" src="https://user-images.githubusercontent.com/65141753/129495847-74ba3118-ba5b-472d-8167-f817b7ea1619.png" />
 </a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvegacodesx&count_bg=%2326C264&title_bg=%23414C88&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br />
 
-hi, i'm [Eric](https://ericthedev.tech/), a passionate self-taught web & software developer from Florida. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Eric](https://ericthedev.dev/), a passionate self-taught web & software developer from Florida. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
