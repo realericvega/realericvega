@@ -4,6 +4,8 @@
                                                                                    
 ### 17, pursuing full-stack Web & Software development.
 
+<hr>
+
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.polywork.com/ericgomez">
   <img align="left" alt="Eric's PolyWork" height="66px" width="66px" src="https://user-images.githubusercontent.com/65141753/129495847-74ba3118-ba5b-472d-8167-f817b7ea1619.png" />
@@ -14,8 +16,6 @@
 <br />
 
 hi, i'm [Eric](https://ericthedev.dev/), a passionate self-taught web & software developer.
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
 **languages and tools:**  
 
@@ -30,6 +30,3 @@ hi, i'm [Eric](https://ericthedev.dev/), a passionate self-taught web & software
 <code><img height="20" src="https://user-images.githubusercontent.com/65141753/129516041-ba01993f-7629-4e25-85c0-ab37822910a2.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/65141753/129515898-43f8d295-7bde-4623-b374-968cd789b570.png"></code>
 
-📈 my github stats
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vegacodesx&show_icons=true&theme=gotham" alt="vegacodesx" />
