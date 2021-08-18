@@ -15,8 +15,6 @@
 
 <br />
 
-hi, i'm [Eric](https://ericthedev.dev/), a passionate self-taught web & software developer.
-
 **languages and tools:**  
 
 <code><img height="20" src="https://user-images.githubusercontent.com/65141753/129515961-c0a10f6e-f971-44fb-ac9b-76f1230f37de.png"></code>
