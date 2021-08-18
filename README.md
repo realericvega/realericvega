@@ -13,12 +13,9 @@
 
 <br />
 
-hi, i'm [Eric](https://ericthedev.dev/), a passionate self-taught web & software developer from Florida. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
+hi, i'm [Eric](https://ericthedev.dev/), a passionate self-taught web & software developer.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:goldcodesmc@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
 
