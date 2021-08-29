@@ -12,7 +12,7 @@
 
 <br />
 
-**languages and tools (learning):**  
+**languages and tools:**  
 
 <code><img height="20" src="https://user-images.githubusercontent.com/65141753/129515961-c0a10f6e-f971-44fb-ac9b-76f1230f37de.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/65141753/129516087-9d9044b7-2a9a-4894-afc8-a08626a48aa8.png"></code>
