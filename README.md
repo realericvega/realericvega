@@ -2,7 +2,7 @@
   <img src="https://lanyard-profile-readme.vercel.app/api/373527405752483840" align="right" />
 </a>
                                                                                    
-### 17, pursuing full-stack Web & Software development.
+### Pursuing full-stack Web & Software development.
 
 <hr>
 
